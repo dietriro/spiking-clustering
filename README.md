@@ -1,2 +1,2 @@
-# SPYNN - Spiking Python Neural Network Library
+# Spiking Clustering
 
